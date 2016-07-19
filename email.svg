@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133.333" height="133.333">
+	<g id="dp_dp001" transform="matrix(1,0,0,1,-68.9173,-388.419)">
+		<path id="dp_path002" fill="#453d3d" fill-rule="evenodd" stroke="none" stroke-width="0" d="M 202.251,455.085 C 202.251,491.907 172.404,521.752 135.584,521.752 C 98.7653,521.752 68.9173,491.907 68.9173,455.085 C 68.9173,418.268 98.7653,388.419 135.584,388.419 C 172.404,388.419 202.251,418.268 202.251,455.085"/>
+		<path id="dp_path003" fill="none" fill-rule="evenodd" stroke="white" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" d="M 180.712,432.403 C 180.712,440.549 174.109,447.152 165.959,447.152 C 157.809,447.152 151.203,440.549 151.203,432.403 C 151.203,424.249 157.809,417.648 165.959,417.648 C 174.109,417.648 180.712,424.249 180.712,432.403 Z "/>
+		<path id="dp_path004" fill="none" fill-rule="evenodd" stroke="white" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" d="M 171.048,429.083 L 164.413,435.719 L 160.867,432.173"/>
+		<path id="dp_path005" fill="none" fill-rule="evenodd" stroke="white" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" d="M 154.209,467.244 L 141.701,455.508"/>
+		<path id="dp_path006" fill="none" fill-rule="evenodd" stroke="white" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" d="M 124.972,455.504 L 112.461,467.244"/>
+		<path id="dp_path007" fill="none" fill-rule="evenodd" stroke="white" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" d="M 165.953,447.152 L 165.953,475.489 C 165.953,476.956 164.752,478.156 163.287,478.156 L 103.379,478.156 C 101.913,478.156 100.712,476.956 100.712,475.489 L 100.712,435.065 C 100.712,433.597 101.913,432.399 103.379,432.399 L 151.199,432.399"/>
+		<path id="dp_path008" fill="none" fill-rule="evenodd" stroke="white" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" d="M 102.071,434.056 L 131.324,459.581 C 132.429,460.544 134.241,460.547 135.349,459.588 L 155.16,442.431"/>
+	</g>
+</svg>

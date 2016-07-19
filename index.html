@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="tea.svg">
+    <title>Procrastination tool</title>
+    <link href="https://fonts.googleapis.com/css?family=Special+Elite" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="procrastination-style.css">
+</head>
+<body>
+
+<div id="animation-area-overlay">
+</div>
+<div id="animation-area">
+  <header id= "header">
+    <h1>Procrastination picker</h1>
+    <p>Are you so busy you don't even have time to decide how to procrastinate? Then this tool is for you! Just push the button and let the procrastination picker decide.</p>
+  </header>
+  <div id="icons">
+    <img id="ebay" src="ebay.svg" alt="ebay icon" />
+    <img id="email" src="email.svg" alt="email icon" />
+    <img id="eu" src="eu.svg" alt="eu icon" />
+    <img id="facebook" src="facebook.svg" alt="facebook icon" />
+    <img id="sandwich" src="sandwich.svg" alt="sandwich icon" />
+    <img id="tea" src="tea.svg" alt="tea icon" />
+    <img id="side-project" src="side-project.svg" alt="side project icon" />
+    <img id="umbrella" src="umbrella.svg" alt="umbrella icon" />
+  </div>
+  <div id="button">
+    <button>Press me</button>
+  </div>
+  <div id="results">
+    <div class="results-card" id="ebay-result">
+      <img id="ebay2" src="ebay.svg" alt="ebay icon" />
+      <h2>eBay</h2>
+      <p>Now is definitely a good time to check if that pen/watch/pair of underpants you don't really need is being offered at a once-in-a-lifetime price.</p>
+      <p><a href="#" class="try-again">[I want another go]</a></p>
+    </div>
+    <div class="results-card" id="email-result">
+      <img id="email2" src="email.svg" alt="email icon" />
+      <h2>Emails</h2>
+      <p>I know you only checked them a couple of minutes ago and the little email flag isn't showing, but sometimes it doesn't work, right?</p>
+      <p><a href="#" class="try-again">[I want another go]</a></p>
+    </div>
+    <div class="results-card" id="eu-result">
+      <img id="eu2" src="eu.svg" alt="eu icon" />
+      <h2>Brexit</h2>
+      <p>You never took much interest in the EU before but at the moment it seems a matter of national importance that you keep up to date with the latest news feeds.</p>
+      <p><a href="#" class="try-again">[I want another go]</a></p>
+    </div>
+    <div class="results-card" id="facebook-result">
+      <img id="facebook2" src="facebook.svg" alt="facebook icon" />
+      <h2>Facebook</h2>
+      <p>You don't want to miss a status update from someone you haven't spoken to in five years, do you? Also, someone might have posted an amusing cat video.</p>
+      <p><a href="#" class="try-again">[I want another go]</a></p>
+    </div>
+    <div class="results-card" id="sandwich-result">
+      <img id="sandwich2" src="sandwich.svg" alt="sandwich icon" />
+      <h2>Snack</h2>
+      <p>What's that growing sense of restlessness spreading through your body? Will a sandwich help? Probably.</p>
+      <p><a href="#" class="try-again">[I want another go]</a></p>
+    </div>
+    <div class="results-card" id="tea-result">
+      <img id="tea2" src="tea.svg" alt="tea icon" />
+      <h2>Tea/coffee</h2>
+      <p>Sometimes the old ways are the best. A tried and trusted procrastination technique.</p>
+      <p><a href="#" class="try-again">[I want another go]</a></p>
+    </div>
+    <div class="results-card" id="side-project-result">
+      <img id="side-project2" src="side-project.svg" alt="side project icon" />
+      <h2>Side project</h2>
+      <p>Oh dear - you won't be earning any money for a while. You've decided that writing a screenplay/building something from that pile of wood in the garden is a good use of your time. In the long run it's actually better than doing what you're supposed to be doing, right?</p>
+      <p><a href="#" class="try-again">[I want another go]</a></p>
+    </div>
+    <div class="results-card" id="umbrella-result">
+      <img id="umbrella2" src="umbrella.svg" alt="umbrella icon" />
+      <h2>Umbrella</h2>
+      <p>Time to waterproof that umbrella. No, really.</p>
+      <p><a href="#" class="try-again">[I want another go]</a></p>
+    </div>
+  </div>
+  <div id="credit"><a href="http://simbrody.co.uk">Created by Sim Brody</a></div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<!--CDN link for  TweenMax-->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+ <script src="scripts.js"></script>
+</body>
+</html>
